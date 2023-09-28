@@ -6,7 +6,7 @@ function Animation() {
       <div className="card1">
         <div className="card-inner1">
           <div className="card-front1">
-            <img src="/images/taj.jpeg" alt="card image" />
+            <img src="/my-card-reactjs/images/taj.jpeg" alt="card" />
           </div>
           <div className="card-back1">
             <h1>
@@ -25,7 +25,7 @@ function Animation() {
       <div className="card1">
         <div className="card-inner1">
           <div className="card-front1">
-            <img src="/images/dubai.jpeg" alt="card image" />
+            <img src="/my-card-reactjs/images/dubai.jpeg" alt="card" />
           </div>
           <div className="card-back1">
             <h1>
